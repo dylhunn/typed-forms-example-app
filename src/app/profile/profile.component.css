@@ -1,0 +1,5 @@
+label:before {
+    content: '\a';
+    white-space: pre;
+  }
+  
